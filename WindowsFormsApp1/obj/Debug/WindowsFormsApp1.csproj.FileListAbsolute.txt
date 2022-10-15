@@ -25,3 +25,17 @@ C:\Users\Adimer\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Windows
 C:\Users\Adimer\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AxInterop.ZKFPEngXControl.dll
 C:\Users\Adimer\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Interop.ZKFPEngXControl.dll
 C:\Users\Adimer\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\stdole.dll
+D:\proyectovisualc\cbiometrico\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\proyectovisualc\cbiometrico\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\proyectovisualc\cbiometrico\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\proyectovisualc\cbiometrico\WindowsFormsApp1\bin\Debug\System.Memory.dll
+D:\proyectovisualc\cbiometrico\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+D:\proyectovisualc\cbiometrico\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+D:\proyectovisualc\cbiometrico\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\proyectovisualc\cbiometrico\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\proyectovisualc\cbiometrico\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\proyectovisualc\cbiometrico\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\proyectovisualc\cbiometrico\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\proyectovisualc\cbiometrico\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\proyectovisualc\cbiometrico\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\proyectovisualc\cbiometrico\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache

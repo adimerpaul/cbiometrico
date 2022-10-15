@@ -14,7 +14,7 @@ namespace WindowsFormsApp1
 {
     public partial class Form1 : Form
     {
-        private string conexion = "datasource=127.0.0.1;port=3306;username=root;password=;database=biometrico";
+        private string conexion = "datasource=127.0.0.1;port=3306;username=root;password=;database=biomet";
         string[,] afiliados = new string[600, 10];
         int afiliadosLen;
         private AxZKFPEngX ZkFprint = new AxZKFPEngX();
